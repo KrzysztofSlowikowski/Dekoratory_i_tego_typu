@@ -7,10 +7,7 @@ is_admin = False
 def admin_only(func):
     def wrapper(*args, **kwargs):
         # --- miejsce na uzupełnienie kodu ---
-        if is_admin:
-            return func(*args, **kwargs)
-        else:
-            print("Brak uprawnień")
+        
         # ------------------------------------
     return wrapper
 
