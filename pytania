@@ -1,0 +1,48 @@
+pytania do quziy (tymczasowo tu)
+
+Pytanie 1: Czym jest dekorator w Pythonie?
+
+a) Funkcją, która przyjmuje inną funkcję jako argument i zwraca nową funkcję
+b) Specjalnym typem zmiennej do przechowywania wielu wartości
+c) Mechanizmem do dziedziczenia klas
+d) Narzędziem do kompresji kodu
+
+Poprawna odpowiedź: a
+
+Pytanie 2: Co robi zapis @dekorator nad funkcją?
+
+a) Tworzy kopię funkcji w pamięci
+b) Jest lukrem składniowym, który zastępuje zapis funkcja = dekorator(funkcja)
+c) Importuje funkcję z innego modułu
+d) Kompiluje funkcję do kodu maszynowego
+
+Poprawna odpowiedź: b
+
+Pytanie 3: Czym jest metaprogramowanie?
+
+a) Programowaniem, które operuje na innych programach lub na samym sobie (analizuje, modyfikuje, generuje kod)
+b) Techniką optymalizacji baz danych
+c) Pisaniem programów w wielu językach jednocześnie
+d) Tworzeniem interfejsów graficznych
+
+Poprawna odpowiedź: a
+
+Pytanie 4: Który mechanizm NIE jest przykładem metaprogramowania?
+
+a) Dekoratory w Pythonie
+b) Metaklasy w Pythonie
+c) Pętla for iterująca po liście
+d) Adnotacje i refleksja w Spring Boot
+
+Poprawna odpowiedź: c
+
+Pytanie 5: Jak działa *args i **kwargs w dekoratorze?
+
+a) *args zbiera argumenty pozycyjne do krotki, **kwargs zbiera argumenty nazwane do słownika
+b) *args tworzy listę, **kwargs tworzy zbiór
+c) *args i **kwargs służą wyłącznie do obsługi błędów
+d) *args działa tylko z liczbami, **kwargs tylko z tekstem
+
+Poprawna odpowiedź: a
+
+
