@@ -3,8 +3,7 @@
 def double_result(func):
     def wrapper(*args, **kwargs):
         # --- miejsce na uzupełnienie kodu ---
-        original_result = func(*args, **kwargs)
-        return original_result * 2
+        
         # ------------------------------------
     return wrapper
 
